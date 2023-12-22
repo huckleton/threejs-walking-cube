@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "three": "^0.159.0",
+    "three-subdivide": "^1.1.5",
+    "three-subdivision-modifier": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "vite": "^5.0.10"
+  }
+}
